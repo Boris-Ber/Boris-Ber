@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Boris3000
+- 👋 Hi, I’m @Boris-Ber
 - 👀 I’m interested in competitive programming
 - 🌱 I’m currently learning Python and C++
 - 📫 How to reach me: telegram - @boris_ber, VK - @boris_bern
