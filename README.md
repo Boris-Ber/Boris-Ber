@@ -4,7 +4,7 @@
 
 * Letovo school student [<img src="https://student.letovo.ru/favicon.ico" alt="Letovo">](https://letovo.ru/)
 * Competitive programmer [<img src="https://codeforces.com/favicon.ico" alt="Codeforces">](https://codeforces.com/profile/Boris_Ber)
-* Making bots for Telegram & Discord using Python
+* Making bots for Telegram & Discord using Python [<img src="https://python.org/favicon.ico" alt="Letovo">](https://python.org/)
 
 ---
 
