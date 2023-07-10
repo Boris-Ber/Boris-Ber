@@ -10,4 +10,4 @@
 
 ### How to reach me
 * Telegram - [@boris_ber](https://t.me/boris_ber)
-* VK - [@boris_bern](https://vk.com/boris_bern)
+* VK - [@boris_ber](https://vk.com/boris_ber)
